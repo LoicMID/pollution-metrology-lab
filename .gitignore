@@ -218,3 +218,27 @@ data/
 # Ignore System files (Mac/Windows)
 .DS_Store
 Thumbs.db
+
+# Streamlit secrets (CRITIQUE)
+.streamlit/secrets.toml
+
+# ML / Deep Learning weights (Lourds & Confidentiels)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+*.keras
+
+# Dossiers de modèles
+models/
+saved_models/
+
+# Autres formats de données potentiels
+*.dat
+*.log
+*.parquet
+*.json
+
+
