@@ -209,6 +209,7 @@ __marimo__/
 # Ignore Data files
 data/*
 
+!data/demo/
 !data/demo/README.md
 !data/demo/*.csv
 !data/demo/*.xlsx
