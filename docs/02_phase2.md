@@ -1,0 +1,6 @@
+# Phase 2 : Algorithmes de Fiabilisation
+
+[cite_start]L'objectif est de proposer un algorithme améliorant la justesse et réduisant l'incertitude[cite: 47].
+
+## Approche
+[cite_start]Utilisation de l'apprentissage automatique pour corriger les interférences environnementales (T°, RH)[cite: 18].
