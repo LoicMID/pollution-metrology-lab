@@ -1,0 +1,10 @@
+# Phase 1 : Quantification de la Fiabilité
+
+Cette phase vise à définir un cadre rigoureux pour évaluer si une donnée est fiable ou non.
+
+## Objectifs
+* Définir un protocole expérimental.
+* [cite_start]Quantifier la **justesse** et l'**incertitude** par rapport à une référence[cite: 46].
+
+## Méthodologie
+Nous comparons les capteurs low-cost à des stations de référence via des métriques standardisées (RMSE, MAE).

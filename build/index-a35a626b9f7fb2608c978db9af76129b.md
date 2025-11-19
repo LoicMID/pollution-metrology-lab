@@ -1,0 +1,17 @@
+# Cadre Méthodologique pour la Fiabilisation des Capteurs
+
+**Sujet de Thèse :** Développement d'un cadre méthodologique pour la fiabilisation de réseaux de capteurs de pollution de l'air : de la fiabilisation en laboratoire à la maintenance dynamique in-situ.
+
+## Contexte
+[cite_start]La pollution atmosphérique est un défi majeur, mais les stations de référence sont coûteuses[cite: 10]. [cite_start]Les capteurs à bas coût offrent une alternative, mais souffrent de problèmes de dérive et de sensibilité à l'environnement[cite: 18, 19].
+
+## Objectifs du projet
+Ce site documente les méthodes développées pour :
+1.  **Qualifier** la donnée brute.
+2.  [cite_start]**Calibrer** par Machine Learning (Réseaux de neurones, etc.)[cite: 25].
+3.  [cite_start]**Fusionner** les données en réseau[cite: 33].
+
+```{tableofcontents}
+01_phase1.md
+02_phase2.md
+03_phase3.md
