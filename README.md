@@ -1,7 +1,6 @@
-# pollution-metrology-lab
-Methodological framework for low-cost sensor calibration and air quality monitoring. Public repository developed as part of a PhD research on signal processing and machine learning for environmental metrology.
-
-## 🌍 Environmental Sensor Reliability Framework  
+# 🌍 pollution-metrology-lab
+Methodological framework for low-cost sensor calibration and air quality monitoring. Public repository developed as part of a PhD research on signal processing and machine learning for environmental metrology.  
+ 
 ### 🎓 Context & Disclaimer  
 This repository serves as the public experimental framework for my PhD research: "Development of a methodological framework for the reliability of air pollution sensor networks".  
 
