@@ -207,11 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 # Ignore Data files
-data/
-*.csv
-*.xlsx
+data/*
 
-!data/**/README.md
+!data/demo/README.md
 !data/demo/*.csv
 !data/demo/*.xlsx
 
