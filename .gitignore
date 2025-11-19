@@ -211,6 +211,10 @@ data/
 *.csv
 *.xlsx
 
+!data/**/README.md
+!data/demo/*.csv
+!data/demo/*.xlsx
+
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
